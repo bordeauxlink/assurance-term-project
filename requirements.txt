@@ -1,0 +1,7 @@
+pytest == 7.4.4
+black == 23.12.1
+jupyter == 1.0.0
+pandas == 2.1.4
+scipy == 1.11.4
+statsmodels == 0.14.1
+linearmodels == 5.4
